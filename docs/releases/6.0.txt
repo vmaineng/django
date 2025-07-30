@@ -188,6 +188,11 @@ Minor features
   reproducible and reducing unnecessary diffs.
 
 :mod:`django.contrib.syndication`
+
+:mod: `django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* The new :func: `django.shortcuts.make_toast`
+function returns ``'toast'``.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * ...
